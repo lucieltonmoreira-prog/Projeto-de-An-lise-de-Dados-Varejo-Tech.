@@ -1,0 +1,101 @@
+ID_Pedido,Data,Cidade,Produto,Preco_Unitario,Quantidade,Status_Pagamento,Faturamento_Total,Mes
+1,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+2,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+3,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+4,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+5,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+6,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+7,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+8,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+9,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+10,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+11,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+12,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+13,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+14,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+15,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+16,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+17,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+18,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+19,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+20,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+21,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+22,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+23,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+24,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+25,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+26,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+27,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+28,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+29,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+30,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+31,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+32,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+33,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+34,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+35,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+36,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+37,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+38,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+39,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+40,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+41,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+42,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+43,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+44,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+45,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+46,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+47,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+48,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+49,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+50,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+51,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+52,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+53,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+54,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+55,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+56,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+57,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+58,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+59,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+60,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+61,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+62,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+63,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+64,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+65,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+66,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+67,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+68,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+69,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+70,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+71,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+72,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+73,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+74,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+75,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+76,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+77,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+78,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+79,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+80,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+81,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+82,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+83,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+84,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+85,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+86,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+87,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+88,2025-01-10,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+89,2025-01-11,Fortaleza,Notebook,3500,1,Pago,3500,January
+90,2025-01-12,São Paulo,Mouse,50,2,Pago,100,January
+91,2025-01-10,Recife,Teclado,150,1,Pendente,150,January
+92,2025-01-11,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+93,2025-01-12,Fortaleza,Notebook,3500,1,Pago,3500,January
+94,2025-01-10,São Paulo,Mouse,50,2,Pago,100,January
+95,2025-01-11,Recife,Teclado,150,1,Pendente,150,January
+96,2025-01-12,Rio de Janeiro,Monitor,900,3,Pago,2700,January
+97,2025-01-10,Fortaleza,Notebook,3500,1,Pago,3500,January
+98,2025-01-11,São Paulo,Mouse,50,2,Pago,100,January
+99,2025-01-12,Recife,Teclado,150,1,Pendente,150,January
+100,2025-01-13,Rio de Janeiro,Monitor,900,3,Pago,2700,January
