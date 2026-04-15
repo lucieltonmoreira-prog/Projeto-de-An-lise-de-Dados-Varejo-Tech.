@@ -1,2 +1,2 @@
-# Projeto-de-An-lise-de-Dados-Varejo-Tech.
+# Projeto-de-Analise-de-Dados-Varejo-Tech.
 A empresa precisava entender o impacto das vendas por região e limpar dados inconsistentes
