@@ -11,8 +11,6 @@ Pandas: Biblioteca principal para limpeza e transformação.
 
 Power BI Desktop: Modelagem e visualização de dados.
 
-Markdown: Documentação do projeto.
-
 O Problema de Negócio
 A empresa fictícia apresentava dificuldades em visualizar seu faturamento por região devido a inconsistências na base de dados (valores nulos, registros duplicados e formatos de data incorretos). O objetivo deste projeto foi limpar esses dados e gerar um dashboard que respondesse:
 
